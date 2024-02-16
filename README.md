@@ -1,4 +1,3 @@
 # Station-Service-Times-Program
+Program that, for a given station, will tell you all direct services, the minimum travel time, the number of departures and arrivals and the first/last trains
 
-Program that if you give it a station (and a date), it'll tell you all possible destinations, number of trains there, when the first is and when the last is
-Might be broken, I haven't run it for a year
